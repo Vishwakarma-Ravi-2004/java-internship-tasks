@@ -13,6 +13,11 @@
 - Rule-based chatbot
 - Interactive communication
 
+- ## Tech Used
+- Java
+- OOP
+- Collections
+
 - How to Run:
 1. Open in VS Code / IntelliJ
 2. Run Main.java
